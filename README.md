@@ -9,4 +9,4 @@ We used bag of words model and TF-idf vectorizers and applied 3 classifiers name
 > Khodak, Mikhail and Saunshi, Nikunj and Vodrahalli, Kiran 
   Proceedings of the Linguistic Resource and Evaluation Conference (LREC) (2018)
   [A Large Self-Annotated Corpus for Sarcasm] (https://doi.org/10.48550/arXiv.1704.05579)
-}
+
